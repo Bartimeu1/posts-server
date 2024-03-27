@@ -1,80 +1,94 @@
 {
-  "clientes": [
+  "posts": [
     {
       "id": 1,
-      "nome": "João da Silva",
-      "telefone": "123456789",
-      "endereco": "Rua dos Animais, 123"
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post1",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
       "id": 2,
-      "nome": "Maria Souza",
-      "telefone": "987654321",
-      "endereco": "Avenida dos Pets, 456"
-    }
-  ],
-  "animais": [
-    {
-      "id": 1,
-      "nome": "Rex",
-      "especie": "Cachorro",
-      "raca": "Labrador",
-      "idade": 3,
-      "cliente_id": 1
-    },
-    {
-      "id": 2,
-      "nome": "Mimi",
-      "especie": "Gato",
-      "raca": "Siamês",
-      "idade": 2,
-      "cliente_id": 1
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "business",
+      "image": "post2",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
       "id": 3,
-      "nome": "Lola",
-      "especie": "Cachorro",
-      "raca": "Poodle",
-      "idade": 5,
-      "cliente_id": 2
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post3",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
       "id": 4,
-      "nome": "Nina",
-      "especie": "Gato",
-      "raca": "Persa",
-      "idade": 1,
-      "cliente_id": 2
-    }
-  ],
-  "produtos": [
-    {
-      "id": 1,
-      "nome": "Ração para cães",
-      "marca": "Premier",
-      "preco": 50.99,
-      "quantidade_estoque": 100
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post4",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
-      "id": 2,
-      "nome": "Areia sanitária para gatos",
-      "marca": "Chalesco",
-      "preco": 25.99,
-      "quantidade_estoque": 50
-    }
-  ],
-  "servicos": [
-    {
-      "id": 1,
-      "nome": "Banho e tosa",
-      "preco": 80.0,
-      "duracao_minutos": 120
+      "id": 5,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post5",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     },
     {
-      "id": 2,
-      "nome": "Consulta veterinária",
-      "preco": 120.0,
-      "duracao_minutos": 60
+      "id": 6,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "business",
+      "image": "post6",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": 7,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post7",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": 8,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "business",
+      "image": "post8",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": 9,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "startup",
+      "image": "post9",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    },
+    {
+      "id": 10,
+      "title": "8 Figma design systems that you can download for free today.",
+      "createdBy": "John Doe",
+      "tag": "business",
+      "image": "post10",
+      "createdDate": "May 23, 2022",
+      "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
     }
   ]
 }
