@@ -3,7 +3,11 @@
     {
       "id": 1,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "startup",
+      "tags": [
+        "technology",
+        "screen"
+      ],
       "author": {
         "name": "Klay Thompson",
         "city": "Oakland",
@@ -16,7 +20,11 @@
     {
       "id": 2,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "business",
+      "category": "economy",
+      "tags": [
+        "economy",
+        "screen"
+      ],
       "author": {
         "name": "Stephen Curry",
         "city": "Oakland",
@@ -29,7 +37,11 @@
     {
       "id": 3,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "business",
+      "tags": [
+        "experience",
+        "business"
+      ],
       "author": {
         "name": "Draymond Green",
         "city": "Oakland",
@@ -42,7 +54,12 @@
     {
       "id": 4,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "technology",
+      "tags": [
+        "marketing",
+        "screen",
+        "life"
+      ],
       "author": {
         "name": "Kevon Looney",
         "city": "Portland",
@@ -55,7 +72,10 @@
     {
       "id": 5,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "startup",
+      "tags": [
+        "marketing"
+      ],
       "author": {
         "name": "Damian Lillard",
         "city": "Oakland",
@@ -68,7 +88,10 @@
     {
       "id": 6,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "business",
+      "category": "economy",
+      "tags": [
+        "experience"
+      ],
       "author": {
         "name": "Trae Young",
         "city": "Memphis",
@@ -81,7 +104,10 @@
     {
       "id": 7,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "business",
+      "tags": [
+        "Screen"
+      ],
       "author": {
         "name": "Paul George",
         "city": "Los Angeles",
@@ -94,7 +120,11 @@
     {
       "id": 8,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "business",
+      "category": "business",
+      "tags": [
+        "life",
+        "marketing"
+      ],
       "author": {
         "name": "Kavwhi Leonard",
         "city": "Los Angeles",
@@ -107,7 +137,11 @@
     {
       "id": 9,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "startup",
+      "category": "startup",
+      "tags": [
+        "technology",
+        "marketing"
+      ],
       "author": {
         "name": "Lebron James",
         "city": "Los Angeles",
@@ -120,7 +154,13 @@
     {
       "id": 10,
       "title": "8 Figma design systems that you can download for free today.",
-      "tag": "business",
+      "category": "economy",
+      "tags": [
+        "life",
+        "experience",
+        "screen",
+        "marketing"
+      ],
       "author": {
         "name": "Devin Booker",
         "city": "Phoenix",
