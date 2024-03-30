@@ -2,6 +2,7 @@
   "posts": [
     {
       "id": 1,
+      "authorId": 1,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "startup",
       "tags": [
@@ -19,6 +20,7 @@
     },
     {
       "id": 2,
+      "authorId": 2,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "economy",
       "tags": [
@@ -36,6 +38,7 @@
     },
     {
       "id": 3,
+      "authorId": 3,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "business",
       "tags": [
@@ -53,6 +56,7 @@
     },
     {
       "id": 4,
+      "authorId": 4,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "technology",
       "tags": [
@@ -71,6 +75,7 @@
     },
     {
       "id": 5,
+      "authorId": 5,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "startup",
       "tags": [
@@ -87,6 +92,7 @@
     },
     {
       "id": 6,
+      "authorId": 6,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "economy",
       "tags": [
@@ -103,6 +109,7 @@
     },
     {
       "id": 7,
+      "authorId": 7,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "business",
       "tags": [
@@ -119,6 +126,7 @@
     },
     {
       "id": 8,
+      "authorId": 8,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "business",
       "tags": [
@@ -136,6 +144,7 @@
     },
     {
       "id": 9,
+      "authorId": 9,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "startup",
       "tags": [
@@ -153,6 +162,7 @@
     },
     {
       "id": 10,
+      "authorId": 10,
       "title": "8 Figma design systems that you can download for free today.",
       "category": "economy",
       "tags": [
@@ -169,6 +179,68 @@
       "image": "https://images.unsplash.com/photo-1581091870598-36ce9bad5c77?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "createdDate": "May 23, 2022",
       "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Klay Thompson",
+      "city": "Oakland",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Stephen Curry",
+      "city": "Oakland",
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Draymond Green",
+      "city": "Oakland",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Kevon Looney",
+      "city": "Portland",
+      "avatar": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "Damian Lillard",
+      "city": "Oakland",
+      "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "Trae Young",
+      "city": "Memphis",
+      "avatar": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Paul George",
+      "city": "Los Angeles",
+      "avatar": "https://images.unsplash.com/photo-1601455763557-db1bea8a9a5a?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "Kavwhi Leonard",
+      "city": "Los Angeles",
+      "avatar": "https://plus.unsplash.com/premium_photo-1689632031083-518b012767a4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "name": "Lebron James",
+      "city": "Los Angeles",
+      "avatar": "https://images.unsplash.com/photo-1645830166230-187caf791b90?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "name": "Devin Booker",
+      "city": "Phoenix",
+      "avatar": "https://images.unsplash.com/photo-1645378999496-33c8c2afe38d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
