@@ -186,6 +186,7 @@
       "id": 1,
       "name": "Klay Thompson",
       "city": "Oakland",
+      "description": "Basketball player for GSW",
       "links": [
         {
           "id": "1",
@@ -214,6 +215,7 @@
       "id": 2,
       "name": "Stephen Curry",
       "city": "Oakland",
+      "description": "Basketball player for GSW",
       "links": [
         {
           "id": "1",
@@ -241,6 +243,7 @@
     {
       "id": 3,
       "name": "Draymond Green",
+      "description": "Basketball player for GSW",
       "city": "Oakland",
       "links": [
         {
@@ -269,6 +272,7 @@
     {
       "id": 4,
       "name": "Kevon Looney",
+      "description": "Basketball player for GSW",
       "city": "Portland",
       "links": [
         {
@@ -297,6 +301,7 @@
     {
       "id": 5,
       "name": "Damian Lillard",
+      "description": "Basketball player for Bugs",
       "city": "Oakland",
       "links": [
         {
@@ -325,6 +330,7 @@
     {
       "id": 6,
       "name": "Trae Young",
+      "description": "Basketball player for Hawks",
       "city": "Memphis",
       "links": [
         {
@@ -353,6 +359,7 @@
     {
       "id": 7,
       "name": "Paul George",
+      "description": "Basketball player for Clippers",
       "city": "Los Angeles",
       "links": [
         {
@@ -381,6 +388,7 @@
     {
       "id": 8,
       "name": "Kavwhi Leonard",
+      "description": "Basketball player for Clippers",
       "city": "Los Angeles",
       "links": [
         {
@@ -409,6 +417,7 @@
     {
       "id": 9,
       "name": "Lebron James",
+      "description": "Basketball player for Lakers",
       "city": "Los Angeles",
       "links": [
         {
@@ -437,6 +446,7 @@
     {
       "id": 10,
       "name": "Devin Booker",
+      "description": "Basketball player for Suns",
       "city": "Phoenix",
       "links": [
         {
